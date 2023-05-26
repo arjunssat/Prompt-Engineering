@@ -4,7 +4,7 @@
 <ul>
   <b>Guidelines::</b>
 
-The course covers two key principles for writing prompts:
+Key principles for writing prompts:<br></n>
 1.	Clear and specific instructions.
 2.	Giving model time to think.<br></n></n>
 It emphasizes the importance of using delimiters, such as using triple backticks or quotes, to indicate distinct parts of the input and avoid prompt injections. Also, for a structured output like JSON and HTML format, is suggested to make parsing model responses easier.” Few-shot prompting” also suggested for successful task executions before requesting the actual task from the model.
